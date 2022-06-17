@@ -1,4 +1,5 @@
-## Olá! Bem vindo ao meu perfil, sou estusiasta de tecnologia e programador!
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Micael Gomes</h1>
+
 
 <div align="center">
   <a href="https://github.com/Micazeera">
