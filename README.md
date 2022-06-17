@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Micael Gomes</h1>
 
-- 🔥 Junior Web Developer
+- 🔥 Junior Backend Developer
 
 - 🔭 I’m currently a freelancer
 
@@ -9,9 +9,11 @@
 
 <div align="center">
   <a href="https://github.com/Micazeera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micazeera&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micazeera&show_icons=true&theme=vision-friendly-dark"/><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micazeera&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+
 </div>
+  <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -21,6 +23,7 @@
 
   <img align="right" alt="Foto" height="150" style="border-radius:50px;" src="">
 </div>
+  <br>
   
 ## 👨 &nbsp; Social Links
  
