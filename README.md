@@ -1,5 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Micael Gomes</h1>
 
+- 🔥 Junior Web Developer
+
+- 🔭 I’m currently a freelancer
+
+<br><br>
+
 
 <div align="center">
   <a href="https://github.com/Micazeera">
