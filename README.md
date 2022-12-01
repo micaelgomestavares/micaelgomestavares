@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">, I'm Micael Gomes</h1>
 
-- 🔥 Junior Backend Developer
+- 🔥 Junior FullStack Developer (Focus on BackEnd)
 
 - 🔭 I’m currently a freelancer
 
@@ -16,6 +16,8 @@
 </div>
   
   <br>
+ 
+## 💻 &nbsp; Most Used Languages / Frameworks
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
