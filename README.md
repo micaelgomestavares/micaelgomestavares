@@ -1,21 +1,9 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">, I'm Micael Gomes</h1>
+<h1 align="left">Hi, I'm Micael Gomes</h1>
 
 - 🔥 Junior FullStack Developer (Focus on BackEnd)
-
 - 🔭 I’m currently a freelancer
+- 🎓 SI (3/8) 
 
-- 🎓 SI (2/8) 
-
-<br><br>
-
-
-<div align="center">
-  <a href="https://github.com/Micazeera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micazeera&show_icons=true&theme=vision-friendly-dark"/><br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micazeera&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-  
-  <br>
  
 ## 💻 &nbsp; Most Used Languages / Frameworks
   
