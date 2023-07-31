@@ -6,7 +6,7 @@
 - 🧬 Some soft skills: self-taught, proactive and communicative
 
  
-## 💻 &nbsp; Most Used Languages / Frameworks
+## 💻&nbsp;Most Used Languages / Frameworks
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
   
   <br>
   
-## 👨 &nbsp; Social Links
+## 👨&nbsp;Social Links
  
 <div>
   <a href="https://instagram.com/micaelgomes.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
