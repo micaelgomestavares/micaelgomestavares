@@ -1,8 +1,8 @@
-<h1 align="left">👋🏻 Olá, Bem vindo(a) ao meu perfil!</h1>
+<h1 align="left">👋🏻 Olá, bem vindo(a) ao meu perfil!</h1>
 
 
 ## ✉️&nbsp;Biografia
-Sou um desenvolvedor backend apaixonado por tecnologia e desafios.
+Sou um desenvolvedor apaixonado por tecnologia e desafios.
 
 Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver desafios. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e divertido.
 
