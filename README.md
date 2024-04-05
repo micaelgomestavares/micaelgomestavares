@@ -1,7 +1,5 @@
 <h1>👋🏻 Olá, bem vindo(a) ao meu perfil!</h1>
 
-![LinkedIn Banner (1)](https://media.licdn.com/dms/image/D4D16AQGtpsimx0Q8_Q/profile-displaybackgroundimage-shrink_350_1400/0/1693496715550?e=1712188800&v=beta&t=NZ2NbO-PtXCp_EqXwHYUh2OTt3piQIJdP9MZnlNnYN4)
-
 ## ✉️&nbsp;Biografia
 Sou um desenvolvedor apaixonado por tecnologia e desafios.
 
