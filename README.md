@@ -8,12 +8,10 @@ Minha jornada na programação começou como autodidata aos 12 anos, o que me pe
 Atualmente estou cursando Bacharelado em Sistemas de Informação (4/8) no Instituto Federal Fluminense (IFF).
 
 ## 💻&nbsp;Tecnologias que uso
-  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nestjs,nodejs,prisma,postgres,mysql,docker,git" />
   
 ## 👨&nbsp;Redes Sociais
- 
 <div>
  <a href="https://instagram.com/micaelgomes.dev" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
  <a href="https://www.linkedin.com/in/micaelgomestavares/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
@@ -23,6 +21,5 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação (4/8) no Insti
 
 <div style="display: inline_block">
   <a href="https://github.com/micaelgomestavares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=micaelgomestavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelgomestavares&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelgomestavares&layout=compact&langs_count=7&theme=dark"/>
 
