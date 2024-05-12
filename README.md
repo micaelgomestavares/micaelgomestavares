@@ -7,6 +7,8 @@ Minha jornada na programação começou como autodidata aos 12 anos, o que me pe
 
 Atualmente estou cursando Bacharelado em Sistemas de Informação (4/8) no Instituto Federal Fluminense (IFF).
 
+Link para o portfólio: https://micael-portfolio.vercel.app/
+
 ## 💻&nbsp;Tecnologias que uso
 <div style="display: inline_block">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nestjs,nodejs,prisma,postgres,mysql,docker,git" />
