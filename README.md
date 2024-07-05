@@ -11,7 +11,7 @@ Link para o portfólio: https://micael-portfolio.vercel.app/
 
 ## 💻&nbsp;Tecnologias que uso
 <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nestjs,nodejs,prisma,postgres,mysql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nestjs,nodejs,prisma,postgres,mysql,git" />
   
 ## 👨&nbsp;Redes Sociais
 <div>
