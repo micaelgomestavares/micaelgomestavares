@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e desafios.
 
 Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver desafios. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e divertido.
 
-Atualmente estou cursando Bacharelado em Sistemas de Informação (4/8) no Instituto Federal Fluminense (IFF).
+Atualmente estou cursando Bacharelado em Sistemas de Informação (5/8) no Instituto Federal Fluminense (IFF).
 
 Link para o portfólio: https://micael-portfolio.vercel.app/
 
