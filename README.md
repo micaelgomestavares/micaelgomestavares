@@ -1,27 +1,29 @@
-<h1>👋🏻 Olá, bem vindo(a) ao meu perfil!</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## ✉️&nbsp;Biografia
-Sou um desenvolvedor apaixonado por tecnologia e desafios.
+### 👨‍💻 About Me:
+Hi, welcome to my profile! My name is Micael Gomes, I'm a developer passionate about technology and challenges. My programming journey began as a self-taught student at age 12, which helped me develop a creative and proactive approach to solving challenges. As a naturally extroverted person, I love working in a team, sharing ideas and constantly looking for ways to create a collaborative and fun environment. If you're looking for a developer with communication skills and a passionate approach to software development, I'd love to talk to you!
 
-Minha jornada na programação começou como autodidata aos 12 anos, o que me permitiu desenvolver uma abordagem criativa e proativa para resolver desafios. Como uma pessoa extrovertida por natureza, adoro trabalhar em equipe, compartilhar ideias e buscar constantemente maneiras de criar um ambiente colaborativo e divertido.
+Link to my portfolio: https://micael-portfolio.vercel.app/
 
-Atualmente estou cursando Bacharelado em Sistemas de Informação (5/8) no Instituto Federal Fluminense (IFF).
+---
 
-Link para o portfólio: https://micael-portfolio.vercel.app/
+### 🛠️ Languages and Tools:
 
-## 💻&nbsp;Tecnologias que uso
-<div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nestjs,nodejs,prisma,postgres,mysql,git" />
+[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,tailwind,cypress,jest,yarn,git,vscode,figma)](https://skillicons.dev)
+
+---
   
-## 👨&nbsp;Redes Sociais
+### 👨&nbsp;Social media
 <div>
  <a href="https://instagram.com/micaelgomes.dev" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
  <a href="https://www.linkedin.com/in/micaelgomestavares/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </div>
 
-<br>
+---
 
 <div style="display: inline_block">
   <a href="https://github.com/micaelgomestavares">
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelgomestavares&layout=compact&langs_count=7&theme=dark"/>
-
+</div>
