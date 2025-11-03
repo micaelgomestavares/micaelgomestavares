@@ -9,7 +9,7 @@ Link to my portfolio: https://micael-portfolio.vercel.app/
 
 ---
 
-### 💡 Key Skills / Habilidades Principais
+### 💡 Key Skills
 
 - 🧱 Advanced Frontend Development: Expertise in React and Next.js, focused on evolving complex systems like onboarding and backoffice applications.
 - ⚙️ Quality Assurance & Testing: Proven experience with Automated Testing, including E2E using Cypress and Playwright, and Unit/Integration testing with Jest.
@@ -22,7 +22,7 @@ Link to my portfolio: https://micael-portfolio.vercel.app/
 
 ---
 
-### 💼 Professional Experience / Experiência Profissional
+### 💼 Professional Experience
 
 - 👨‍💻 **Mid-Level Frontend Developer — Dinheirow** (Campos dos Goytacazes, RJ - Remote)
       <br/> Focused on the maintenance and evolution of onboarding and backoffice systems. Utilized React, Next.js, Vue, TailwindCSS, and automated testing (Cypress, Playwright, Jest) within an agile team (Scrum).
