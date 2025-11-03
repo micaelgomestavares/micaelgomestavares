@@ -25,13 +25,13 @@ Link to my portfolio: https://micael-portfolio.vercel.app/
 ### 💼 Professional Experience / Experiência Profissional
 
 - 👨‍💻 **Mid-Level Frontend Developer — Dinheirow** (Campos dos Goytacazes, RJ - Remote)
-      Focused on the maintenance and evolution of onboarding and backoffice systems. Utilized React, Next.js, Vue, TailwindCSS, and automated testing (Cypress, Playwright, Jest) within an agile team (Scrum).
+      <br/> Focused on the maintenance and evolution of onboarding and backoffice systems. Utilized React, Next.js, Vue, TailwindCSS, and automated testing (Cypress, Playwright, Jest) within an agile team (Scrum).
 
 - ⚙️ **Network Scholar — Instituto Federal Fluminense** (Campos dos Goytacazes, RJ - On-site)
-      Documented network infrastructure (Netbox), configured network equipment, and administered VLANs, resulting in a ~30% improvement in security and network performance.
+      <br/> Documented network infrastructure (Netbox), configured network equipment, and administered VLANs, resulting in a ~30% improvement in security and network performance.
 
 - 💻 **Freelance Web Development** (Campos dos Goytacazes, RJ - Remote)
-      Developed platforms using WordPress and created full-stack solutions, resulting in an average 25% increase in client conversion rates. Experience with Node.js, NestJS, MySQL, and PostgreSQL.
+      <br/> Developed platforms using WordPress and created full-stack solutions, resulting in an average 25% increase in client conversion rates. Experience with Node.js, NestJS, MySQL, and PostgreSQL.
 
 ---
 
