@@ -24,6 +24,15 @@ Link to my portfolio: https://micael-portfolio.vercel.app/
 
 ### 💼 Professional Experience
 
+- 🚀 **Tech Lead / Full Stack Developer — Ecta Corporative** (Campos dos Goytacazes, RJ - Remote)
+  <br/> Led technical decisions and supported the development of B2B platforms and business-critical applications.
+  Designed a RAG architecture using vector embeddings to connect LLMs with corporate knowledge bases.
+  Integrated AI workflows with real-time ERP data through APIs.
+  Worked with C#/.NET, NestJS, Angular and relational and non-relational databases.
+  Participated in architectural decisions, code reviews and technical planning.
+  Mentored developers and helped establish engineering standards.
+  Contributed to automated testing, CI/CD, observability and application reliability.
+
 - 👨‍💻 **Mid-Level Frontend Developer — Dinheirow** (Campos dos Goytacazes, RJ - Remote)
       <br/> Focused on the maintenance and evolution of onboarding and backoffice systems. Utilized React, Next.js, Vue, TailwindCSS, and automated testing (Cypress, Playwright, Jest) within an agile team (Scrum).
 
