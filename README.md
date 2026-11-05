@@ -59,6 +59,4 @@ Link to my portfolio: https://micael-portfolio.vercel.app/
 
 ---
 
-![GitHub Stats](https://githubstats.com.br/api/stats?username=micaelgomestavares&theme=dark&showBorder=true&language=pt&type=stats)
-
 
